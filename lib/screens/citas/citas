@@ -1,0 +1,42 @@
+import 'package:flutter/material.dart';
+
+class Cita {
+  final String categoria;
+  final int mes;
+  final int dia;
+  final String hora;
+
+  Cita({
+    this.categoria,
+    this.mes,
+    this.dia,
+    this.hora,
+  });
+}
+
+List<Cita> citas = [
+  Cita(
+    categoria: "SHOPPING",
+    mes: 12,
+    dia: 25,
+    hora: "14:00",
+  ),
+  Cita(
+    categoria: "ARMARIO",
+    mes: 09,
+    dia: 15,
+    hora: "12:00",
+  ),
+  Cita(
+    categoria: "SHOPPING",
+    mes: 9,
+    dia: 8,
+    hora: "14:00",
+  ),
+  Cita(
+    categoria: "ARMARIO",
+    mes: 01,
+    dia: 12,
+    hora: "22:30",
+  ),
+];

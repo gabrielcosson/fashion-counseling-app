@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "327856905735",
+    "project_id": "appadrianarojas",
+    "storage_bucket": "appadrianarojas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327856905735:android:415f1c1935e6076170d4a2",
+        "android_client_info": {
+          "package_name": "com.example.prueba_adriana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327856905735-cju68na3ttqaqmj2l33kti0f70300ft9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbTSESHt2RuAPHj1gEe7Awv17Dr1unDOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327856905735-cju68na3ttqaqmj2l33kti0f70300ft9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
